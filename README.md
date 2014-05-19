@@ -1,0 +1,4 @@
+phonegap-rss
+============
+
+phonegap-rss
